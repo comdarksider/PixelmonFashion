@@ -1,2 +1,2 @@
-# PixelmonFashion
-Armor and equipment in pokemon all cartoon.
+# Example Mod
+Armor and equipment and block and obj item and obj block
